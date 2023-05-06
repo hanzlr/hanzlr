@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on KONE Indo Elevator<br>🌱 I’m currently learning Programing and Electrical<br>💬 Ask me about Electrical 
+🔭 I’m currently studying on Mercu Buana University<br>🌱 I’m currently learning Programing and Electrical<br>💬 Ask me about Electrical 
 
 
 ## 🌐 Socials:
