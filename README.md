@@ -101,7 +101,6 @@
 <img src="https://github-trophies.vercel.app/?username=hanzlr&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" />
 </div>
 
-
 ---
 
 ## 📈 Contribution Graph
@@ -109,6 +108,29 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanzlr&bg_color=1a1b27&color=00FFFF&line=302b63&point=00FFFF&area=true&hide_border=false&radius=10" />
 </div>
+
+---
+
+## 📜 Certifications & Achievements
+
+### 🤖 AI & Data
+[![AI Agents & Agentic AI](https://img.shields.io/badge/AI_Agents_%26_Agentic_AI-Vanderbilt_University-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/1YAEL0UUZUAH)
+[![Deploy & Evaluate AI Systems](https://img.shields.io/badge/Deploy_%26_Evaluate_AI_Systems-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/YUKRE5FGDZUL)
+[![Real-Time Dashboards with Spark](https://img.shields.io/badge/Real--Time_Dashboards_with_Spark-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/9UMXZB8JK615)
+[![Random Forests for ML](https://img.shields.io/badge/Random_Forests_for_ML-EDUCBA-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/48J2JXLCFG83)
+
+### 🔌 IoT, Embedded & Robotics
+[![Interfacing with Arduino](https://img.shields.io/badge/Interfacing_with_Arduino-UC_Irvine-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/XR2LQUY9SSTR)
+[![IoT Wireless & Cloud](https://img.shields.io/badge/IoT_Wireless_%26_Cloud-Yonsei_University-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/X30RF3UDWZR4)
+[![Basics of Robotics](https://img.shields.io/badge/Basics_of_Robotics-Siemens_×_Coursera-0056D2?style=for-the-badge&logo=siemens&logoColor=white)](https://www.credly.com/badges/7401aca4-f3f7-4afc-996f-e58cb7f30ef4/linked_in_profile)
+[![Robotics & Industrial Automation](https://img.shields.io/badge/Robotics_%26_Industrial_Automation-L%26T_EduTech-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/1G59SB1D5HNF)
+
+### 📡 Emerging Technologies
+[![5G for Everyone](https://img.shields.io/badge/5G_for_Everyone-Qualcomm_Academy-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6A04UZ4YAZ5P)
+
+### 🏅 Organization & Leadership
+[![Ketua Divisi SDM](https://img.shields.io/badge/Ketua_Divisi_SDM-UKK_E--Sport_UMB-7B2FBE?style=for-the-badge&logo=esports&logoColor=white)](https://www.linkedin.com/in/hanzlr/)
+[![Campus Ambassador](https://img.shields.io/badge/Official_Campus_Ambassador-Honor_of_Kings-C8A415?style=for-the-badge&logo=tencentqq&logoColor=white)](https://www.linkedin.com/in/hanzlr/)
 
 ---
 
