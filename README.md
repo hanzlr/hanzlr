@@ -98,8 +98,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hanzlr&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-trophies.vercel.app/?username=hanzlr&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" />
 </div>
+
 
 ---
 
