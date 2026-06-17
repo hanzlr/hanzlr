@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=hanzlr&label=Profile+views&color=00FFFF&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/hanzlr?label=Followers&style=flat-square&color=302b63&labelColor=0f0c29" />
+<img src="https://img.shields.io/github/followers/hanzlr?style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Embedded-00FFFF?style=flat-square&labelColor=302b63" />
 
