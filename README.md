@@ -55,9 +55,13 @@
 
 ### 💻 Top Languages (Live Stats)
 
+<div align="center">
+
 <a href="https://stats.pphat.top/languages?username=hanzlr">
   <img src="https://stats.pphat.top/languages?username=hanzlr" alt="Top Languages" />
 </a>
+
+</div>
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
