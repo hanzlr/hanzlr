@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Raihan%20Ramandha%20Saputra&fontSize=40&fontColor=00FFFF&animation=twinkling&fontAlignY=40&desc=Electrical%20Engineering%20%7C%20IoT%20Developer%20%7C%20Maintenance%20Technician&descSize=14&descAlignY=58&descColor=A0A0C0"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=580&lines=Building+smart+systems+with+IoT+%F0%9F%9B%B0;Bridging+hardware+%26+software+seamlessly;Mercu+Buana+University+%7C+Electrical+Enginering+Student;Always+tinkering+with+microcontrollers...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=580&lines=Building+smart+systems+with+IoT+%F0%9F%9B%B0;Bridging+hardware+%26+software+seamlessly;Mercu+Buana+University+%7C+Electrical+Engineering+Student;Always+tinkering+with+microcontrollers...)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=hanzlr&label=Profile+views&color=00FFFF&style=flat-square" />
 &nbsp;
