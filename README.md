@@ -102,7 +102,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=hanzlr&theme=discord&no-frame=false&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-trophies.vercel.app/?username=hanzlr&theme=discord&no-frame=false&no-bg=true&margin-w=4&row=2" />
 </div>
 
 ---
